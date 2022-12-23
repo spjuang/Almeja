@@ -9,6 +9,15 @@ body {
     
 }
 
+#cabecera
+{
+
+    background-color: brown;
+    text-decoration: underline;
+    padding: auto;
+
+}
+
 #container{
 
     text-align: left;
