@@ -8,3 +8,11 @@ body {
     text-align: center;
     
 }
+
+#container{
+
+    text-align: left;
+    color: black;
+    padding: 1em;
+    border: 1px solid;
+}
